@@ -1,0 +1,20 @@
+.note-container
+{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    margin-top: 10%;
+    margin-left: 20%;
+    background-color: burlywood;
+}
+
+.note-form
+{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.note-expansion-header
+{
+    background-color: blue;
+}
